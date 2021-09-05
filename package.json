@@ -1,0 +1,16 @@
+{
+  "name": "Torrent_Client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emad Poursina",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.2",
+    "bignum": "^0.13.1"
+  }
+}
